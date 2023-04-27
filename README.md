@@ -8,7 +8,7 @@ The application allows users to create, read, update, and delete Categories in t
 
 ## Technologies Used
 - [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/)
-- [.NET Core 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
+- [.NET Core 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 - [Razor Pages](https://learn.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-7.0&tabs=visual-studio)
 - [Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/)
 - [MS SQL](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
